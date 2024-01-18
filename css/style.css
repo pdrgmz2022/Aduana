@@ -138,3 +138,8 @@ a:hover{
     color:rgb(0, 255, 34);
     /*cursor: pointer; /* pone el cursor de la manito*/
 }
+
+.carousel-item {
+    /* transition: opacity 0.6s ease-in-out; */
+    transition: duration linear;
+  }
