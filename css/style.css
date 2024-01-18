@@ -99,6 +99,7 @@ h1{
     #escu2{
        
         width: 50px;
+        border-radius: 50%;
              
     }
     #todos{
@@ -122,6 +123,8 @@ h1{
 
 #escu2{
     /* border-radius: 50%; */
+    width: 80px;
+    height: 80px;
 }
 
  /*es para justificar los textos */
