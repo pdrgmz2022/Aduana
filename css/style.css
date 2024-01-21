@@ -143,3 +143,10 @@ a:hover{
     /* transition: opacity 0.6s ease-in-out; */
     transition: duration linear;
   }
+
+ #fondocontacto {
+    background-image: url('../img/aduana/fondo4.jpg'); /* Reemplaza con la ruta de tu imagen */
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed; /* Para mantener la imagen fija mientras se desplaza */
+}
