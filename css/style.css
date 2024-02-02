@@ -150,3 +150,22 @@ a:hover{
     background-position: center center;
     background-attachment: fixed; /* Para mantener la imagen fija mientras se desplaza */
 }
+
+
+#fondogachy {
+    background-image: url('../img/aduana/imagen1.jpg'); /* Cambia 'ruta/de/tu/imagen.jpg' por la ruta correcta de tu imagen */
+    background-size: cover;
+    background-position: center;
+}
+
+#fondojuan {
+    background-image: url('../img/aduana/imagenjuan2.jpg'); /* Cambia 'ruta/de/tu/imagen.jpg' por la ruta correcta de tu imagen */
+    background-size: cover;
+    background-position: center;
+}
+
+#fondovideos {
+    background-image: url('../img/aduana/imagen50.jpg'); /* Cambia 'ruta/de/tu/imagen.jpg' por la ruta correcta de tu imagen */
+    background-size: cover;
+    background-position: center;
+}
